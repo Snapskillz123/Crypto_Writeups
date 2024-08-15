@@ -14,10 +14,11 @@ After rearranging:
 ![image](https://github.com/user-attachments/assets/826dd0d5-8b34-4302-91b3-0228339ad33a)
 
 d/phi(N) approx. = k/e
+
 d/phi(N) can be represented by a continued fraction
 
 ### But what are continued fractions?
-ontinued fractions are a way to represent real numbers as an expression involving a sequence of integer divisions. A continued fraction is expressed as a sum, where each term after the first is the reciprocal of an integer plus the next term in the sequence. This representation is particularly useful for approximating irrational numbers and finding the best rational approximations for real numbers.
+continued fractions are a way to represent real numbers as an expression involving a sequence of integer divisions. A continued fraction is expressed as a sum, where each term after the first is the reciprocal of an integer plus the next term in the sequence. This representation is particularly useful for approximating irrational numbers and finding the best rational approximations for real numbers.
 
 Basic Form of a Continued Fraction
 A simple continued fraction has the form:
